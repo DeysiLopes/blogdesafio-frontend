@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+
+.blog{
+  color: aliceblue;
+  text-decoration: none;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+}
+.login{
+  display: flex;
+  align-items: flex-end;
+  justify-content: end;
+  margin-right: 15px;
+  margin-left: 650px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+}
+.register{
+  display: flex;
+  align-items: flex-end;
+  justify-content: end;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+}
