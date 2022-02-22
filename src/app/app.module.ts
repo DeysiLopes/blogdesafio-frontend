@@ -8,12 +8,18 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
+import { RegisterComponent } from './auth/register/register.component';
+import { LoginComponent } from './auth/login/login.component';
+import { RegisterSuccsessComponent } from './auth/register-succsess/register-succsess.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
+    RegisterComponent,
+    LoginComponent,
+    RegisterSuccsessComponent,
   ],
   imports: [
     BrowserModule,
