@@ -1,27 +1,61 @@
-# BlogdesafioFrontend
+# Blog-frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
 
-## Development server
+<img src="criar-um-blog-lucrativo.jpg" alt="Blog">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+> Desenbolver o front-end de um blog de forma simples.
 
-## Code scaffolding
+### Ajustes e melhorias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-## Build
+- [x] Registrar posts (frontend)
+- [ ] Rigistrar comentários (frontend)
+- [ ] Listar, editar e deletar (frontend)
+- [ ] Busca de posts (frontend)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 💻 Pré-requisitos
 
-## Running unit tests
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou a versão mais recente de `<Spring Boot / Java>`
+* Você tem uma máquina `<MySQL>`. Indique qual sistema operacional é compatível / não compatível.
+* Você leu `<Usando Blog-backend/ Instalando Blog-backend`.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🚀 Instalando Blog-frontend
 
-## Running end-to-end tests
+Para instalar o Blog-backend, siga estas etapas:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Testando:
+```
+Apenas clonar repositório
+```
 
-## Further help
+## ☕ Usando Blog-frontend
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para usar Blog-frontend, siga estas etapas:
+
+```
+Testando com postman ou outro software de sua preferência.
+```
+
+Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DeysiLopes">
+        <img src="deysi-perfil.jpg" width="100px;" alt="Foto do Deysi no GitHub"/><br>
+        <sub>
+          <b>Deysi Lopes</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+  </tr>
+</table>
